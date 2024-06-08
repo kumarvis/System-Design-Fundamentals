@@ -1,4 +1,4 @@
-# 20  System Design Concepts
+# Twenty System Design Concepts
 
 ## 1. Vertical Scaling
 Vertical scaling, also known as "scaling up," involves adding more resources to a single server or machine to handle increased load or performance demands.
